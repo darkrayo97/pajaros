@@ -5,7 +5,7 @@ en coria del rio
 ## contenidos
 - gorrion
 - mirlo
-- [cigueña](pajaros/pajaro3/ciguena.md)
+- [cigueña](ciguena.md)
 ## referencias:
 
 
